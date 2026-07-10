@@ -1,4 +1,4 @@
-## Business Performance Report with Data Visualisation
+# Business Performance Report with Data Visualisation
 
 ## Overview
 A professional two-page business report presenting retail sales analysis findings 
