@@ -1,10 +1,11 @@
 ## Business Performance Report with Data Visualisation
 
-
 ## Overview
 A professional two-page business report presenting retail sales analysis findings 
 (built on the Sales Performance Dashboard project) for a non-technical senior 
 management audience.
+
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/ec697c61-0a5a-4965-8859-36db1b0563f0" />
 
 ## What This Demonstrates
 - Translating data findings into clear business language
