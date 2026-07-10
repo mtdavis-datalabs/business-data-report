@@ -16,8 +16,7 @@ Microsoft Word — report writing, formatting, table of contents
 Microsoft Excel — source charts and analysis (see sales-dashboard repository)
 
 ## Files
-business_report.docx — editable Word version
-business_report.pdf — final formatted report
+business_report.pdf
 
 ## Data Source
 Sample Superstore Dataset via Kaggle
