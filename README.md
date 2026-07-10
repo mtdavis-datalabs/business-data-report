@@ -22,3 +22,11 @@ sales_analysis_report.pdf
 ## Data Source
 Sample Superstore Dataset via Kaggle
 kaggle.com/datasets/vivek468/superstore-dataset-final
+
+## Related Project
+This report is built directly on the analysis from my Sales Performance Dashboard 
+project: [link to that repo]
+
+## Audience
+Written for a non-technical senior manager who has not seen the underlying data — 
+prioritises plain-language findings and actionable recommendations over technical detail.
