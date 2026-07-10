@@ -25,7 +25,7 @@ kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Related Project
 This report is built directly on the analysis from my Sales Performance Dashboard 
-project: [(https://github.com/mtdavis-datalabs/sales-performance-dashboard.git)]
+project: (https://github.com/mtdavis-datalabs/sales-performance-dashboard.git)
 
 ## Audience
 Written for a non-technical senior manager who has not seen the underlying data — 
